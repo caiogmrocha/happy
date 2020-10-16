@@ -1,0 +1,7 @@
+# dependencies
+/node_modules
+
+# upload dir
+/uploads/*.jpg
+/uploads/*.jpeg
+/uploads/*.png
