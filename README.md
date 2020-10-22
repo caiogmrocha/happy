@@ -15,9 +15,17 @@
 
 ## 💻 Sobre o Projeto
 
-**👧👦 Happy:** é um site que tem o intuíto de trazer alegria para as crianças dos orfanatos da sua cidade.
+**👧👦 Happy:** é um site que facilita o encontro de orfanatos para marcação de visitas ou consulta.
 
-## :atom: Tecnologias Usadas
+## :atom: Ferramentas
+
+- **[ReactJS](https://pt-br.reactjs.org/)**
+- **[React Native](https://reactnative.dev/)**
+- **[Node JS](https://nodejs.org/en/)**
+- **[Expo](https://expo.io/)**
+- **[TypeScript](https://www.typescriptlang.org/)**
+
+## :atom: Bibliotecas Usadas
 
 - **[Leaflet](https://leafletjs.com/)**/**[React Leaflet](https://react-leaflet.js.org/)** (Biblioteca de mapas para a Web)
 
